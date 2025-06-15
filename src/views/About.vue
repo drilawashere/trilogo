@@ -26,7 +26,7 @@
           </p>
         </div>
         <div class="mission-image">
-          <img src="/assets/images/mission.svg" alt="Trilogoweb mission illustration">
+          <!-- <img src="/assets/images/mission.svg" alt="Trilogoweb mission illustration"> -->
         </div>
       </div>
     </section>
@@ -141,7 +141,7 @@
           </div>
         </div>
         <div class="expertise-image">
-          <img src="/assets/images/expertise.svg" alt="Web design expertise">
+          <!-- <img src="/assets/images/expertise.svg" alt="Web design expertise"> -->
         </div>
       </div>
     </section>
