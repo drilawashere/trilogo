@@ -98,7 +98,6 @@
         </div>
       </div>
       <div class="usp-image">
-        <!-- <img src="/assets/images/telegram-integration.svg" alt="Telegram order integration illustration"> -->
       </div>
     </section>
 

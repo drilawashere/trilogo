@@ -152,7 +152,6 @@ export default {
           id: 1,
           name: 'FreshBite Kitchen',
           category: 'E-commerce',
-          image: '/assets/images/portfolio-freshbite.jpg',
           description: 'A meal delivery service that needed to streamline their order process and improve mobile conversions.',
           results: {
             sales: '+47%',
@@ -179,7 +178,6 @@ export default {
           id: 2,
           name: 'TechGear',
           category: 'E-commerce',
-          image: '/assets/images/portfolio-techgear.jpg',
           description: 'An electronics retailer looking to improve product page conversion rates and increase average order value.',
           results: {
             sales: '+52%',
@@ -206,7 +204,6 @@ export default {
           id: 3,
           name: 'Bloom Boutique',
           category: 'E-commerce',
-          image: '/assets/images/portfolio-bloom.jpg',
           description: 'A fashion boutique that needed to increase trust in their COD payment model and streamline order handling.',
           results: {
             sales: '+95%',
@@ -233,7 +230,6 @@ export default {
           id: 4,
           name: 'Legal Solutions',
           category: 'Service',
-          image: '/assets/images/portfolio-legal.jpg',
           description: 'A law firm seeking to increase qualified consultation bookings and improve client intake efficiency.',
           results: {
             sales: '+68%',
@@ -260,7 +256,6 @@ export default {
           id: 5,
           name: 'Fitness Revolution',
           category: 'Service',
-          image: '/assets/images/portfolio-fitness.jpg',
           description: 'A fitness studio looking to increase membership sign-ups and class bookings through their website.',
           results: {
             sales: '+73%',
@@ -287,7 +282,6 @@ export default {
           id: 6,
           name: 'BuildRight Construction',
           category: 'Business',
-          image: '/assets/images/portfolio-construction.jpg',
           description: 'A construction company that needed to generate more qualified leads and showcase their portfolio effectively.',
           results: {
             sales: '+125%',

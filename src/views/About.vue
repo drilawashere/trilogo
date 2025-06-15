@@ -26,7 +26,6 @@
           </p>
         </div>
         <div class="mission-image">
-          <!-- <img src="/assets/images/mission.svg" alt="Trilogoweb mission illustration"> -->
         </div>
       </div>
     </section>
@@ -35,7 +34,6 @@
     <section class="founder-section">
       <div class="content-wrapper reverse">
         <div class="founder-image">
-          <img src="/assets/images/founder.jpg" alt="Trilogoweb founder">
         </div>
         <div class="founder-content">
           <h2 class="section-title">The Trilogoweb Story</h2>
@@ -141,7 +139,6 @@
           </div>
         </div>
         <div class="expertise-image">
-          <!-- <img src="/assets/images/expertise.svg" alt="Web design expertise"> -->
         </div>
       </div>
     </section>

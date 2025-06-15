@@ -32,20 +32,12 @@ const generatePortfolioImage = (projectName, category) => {
 
 // Generate portfolio images for all projects
 const portfolioImages = {
-  'portfolio-freshbite.jpg': generatePortfolioImage('FreshBite Kitchen', 'E-commerce'),
-  'portfolio-techgear.jpg': generatePortfolioImage('TechGear', 'E-commerce'),
-  'portfolio-bloom.jpg': generatePortfolioImage('Bloom Boutique', 'E-commerce'),
-  'portfolio-legal.jpg': generatePortfolioImage('Legal Solutions', 'Service'),
-  'portfolio-fitness.jpg': generatePortfolioImage('Fitness Revolution', 'Service'),
-  'portfolio-construction.jpg': generatePortfolioImage('BuildRight Construction', 'Business')
+
 };
 
 // Generate other placeholder images
 const placeholderImages = {
-  // 'mission.svg': getPlaceholderByType('mission', { width: 500, height: 400 }),
-  // 'expertise.svg': getPlaceholderByType('expertise', { width: 500, height: 400 }),
-  // 'telegram-integration.svg': getPlaceholderByType('telegram', { width: 500, height: 400 }),
-  // 'founder.jpg': getPlaceholderByType('team', { width: 300 })
+ 
 };
 
 /**
