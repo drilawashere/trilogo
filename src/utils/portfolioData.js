@@ -42,7 +42,6 @@ const portfolioImages = {
 
 // Generate other placeholder images
 const placeholderImages = {
-  'hero-image.svg': getPlaceholderByType('hero', { width: 600, height: 400 }),
   'mission.svg': getPlaceholderByType('mission', { width: 500, height: 400 }),
   'expertise.svg': getPlaceholderByType('expertise', { width: 500, height: 400 }),
   'telegram-integration.svg': getPlaceholderByType('telegram', { width: 500, height: 400 }),

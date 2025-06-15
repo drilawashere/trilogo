@@ -13,7 +13,6 @@
         </div>
       </div>
       <div class="hero-image-container">
-        <img src="/assets/images/hero-image.svg" alt="Website conversion illustration" class="hero-image">
       </div>
     </section>
 
